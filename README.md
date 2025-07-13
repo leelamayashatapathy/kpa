@@ -73,4 +73,6 @@ APIs will be available at:
 - Bogie Checksheet API
   - POST: Save bogie checksheet data with nested structure
 
+## Limitations and Assumptions
 
+- Authentication and user management are not implemented
